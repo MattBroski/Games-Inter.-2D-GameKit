@@ -11,6 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UiScenes/WinScreen.unity
     guid: ca24066a358f64121aa08929e28f3586
+  - enabled: 1
+    path: Assets/Scenes/Challenge Level.unity
+    guid: 662934d5a39f1c143b4b5a8d663a408c
+  - enabled: 1
+    path: Assets/Scenes/Trigger Challenges.unity
+    guid: e9b6193ba359bc5409773d53213835cd
+  - enabled: 1
+    path: Assets/Scenes/Final Challenges.unity
+    guid: 8541529a3a1175243825041b2add5394
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 82921a2a75cbb4c4a82ed12cbad44436, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

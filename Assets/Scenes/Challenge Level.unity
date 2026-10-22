@@ -193,6 +193,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: RotatingPlatform
       objectReference: {fileID: 0}
+    - target: {fileID: 5388218801909573982, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8915592984020964820, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 5388218801909573982, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5772860372516609320, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 251.89957
@@ -266,6 +274,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBoxSticky
       objectReference: {fileID: 0}
+    - target: {fileID: 2736837141637336674, guid: 5c17b4692bae44be2be1cd3894fb42bf, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8915592984020964820, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
     - target: {fileID: 6991507651101820145, guid: 5c17b4692bae44be2be1cd3894fb42bf, type: 3}
       propertyPath: m_LocalScale.y
       value: 19.37
@@ -333,6 +345,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2056023725}
     m_Modifications:
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2076469929, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3135861032057458041, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
       propertyPath: m_Name
       value: StaticBoxSlippery (3)
@@ -461,6 +489,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2056023725}
     m_Modifications:
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2076469929, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3135861032057458041, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
       propertyPath: m_Name
       value: StaticBoxSlippery (5)
@@ -677,6 +721,22 @@ PrefabInstance:
     - target: {fileID: 2160850997625232422, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_Name
       value: StaticBoxBouncy (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 636219443, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8827257769401723219, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_LocalScale.x
@@ -1387,6 +1447,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2056023725}
     m_Modifications:
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2076469929, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3135861032057458041, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
       propertyPath: m_Name
       value: StaticBoxSlippery (2)
@@ -1794,6 +1870,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2056023725}
     m_Modifications:
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2076469929, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3135861032057458041, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
       propertyPath: m_Name
       value: StaticBoxSlippery (7)
@@ -1991,6 +2083,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RotatingPlatform (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5388218801909573982, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8915592984020964820, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
     - target: {fileID: 5772860372516609320, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
       propertyPath: m_LocalPosition.x
       value: -62.226593
@@ -2041,6 +2137,83 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5772860372516609320, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
   m_PrefabInstance: {fileID: 572035244}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &581316001 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6050276691669072401, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
+  m_PrefabInstance: {fileID: 718797732}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &581316005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 581316001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5760b60da046f4e149d650596907aae8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneChanger
+  sceneName: Trigger Challenges
+--- !u!212 &581316006
+SpriteRenderer:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 581316001}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 21300000, guid: 48ad0c76394a14a028745e9d51b2f445, type: 3}
+  m_Color: {r: 0, g: 1, b: 0.99010336, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
 --- !u!1001 &581744836
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2052,6 +2225,22 @@ PrefabInstance:
     - target: {fileID: 2160850997625232422, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_Name
       value: StaticBoxBouncy (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 636219443, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8827257769401723219, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_LocalScale.x
@@ -2349,11 +2538,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1199717767524524673, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 464.53
+      value: 426.99
       objectReference: {fileID: 0}
     - target: {fileID: 1199717767524524673, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 48.21
+      value: 41.19
       objectReference: {fileID: 0}
     - target: {fileID: 1199717767524524673, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2396,20 +2585,24 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6926754752990608024, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6926754752990608024, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
       propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 746585721}
+      objectReference: {fileID: 581316005}
     - target: {fileID: 6926754752990608024, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
       propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6926754752990608024, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
       propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: TeleportOtherObjectHere
+      value: LoadSceneByName
       objectReference: {fileID: 0}
     - target: {fileID: 6926754752990608024, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
       propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: ObjectTeleporter, Assembly-CSharp
+      value: SceneChanger, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 6926754752990608024, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
       propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -2418,7 +2611,13 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6050276691669072401, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 581316005}
+    - targetCorrespondingSourceObject: {fileID: 6050276691669072401, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 581316006}
   m_SourcePrefab: {fileID: 100100000, guid: c36e79e73eb804e1b9c71a25ef92bb32, type: 3}
 --- !u!1001 &722255616
 PrefabInstance:
@@ -2795,6 +2994,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2056023725}
     m_Modifications:
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2076469929, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3135861032057458041, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
       propertyPath: m_Name
       value: StaticBoxSlippery (6)
@@ -2864,6 +3079,22 @@ PrefabInstance:
     - target: {fileID: 2160850997625232422, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_Name
       value: StaticBoxBouncy (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 636219443, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8827257769401723219, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3089,6 +3320,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2056023725}
     m_Modifications:
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2076469929, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3135861032057458041, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
       propertyPath: m_Name
       value: StaticBoxSlippery (1)
@@ -3159,6 +3406,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RotatingPlatform (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5388218801909573982, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8915592984020964820, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
     - target: {fileID: 5772860372516609320, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
       propertyPath: m_LocalPosition.x
       value: -120.2666
@@ -3464,6 +3715,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RotatingPlatform (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5388218801909573982, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8915592984020964820, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
     - target: {fileID: 5772860372516609320, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
       propertyPath: m_LocalPosition.x
       value: -106.666595
@@ -3588,6 +3843,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBoxBouncy (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 636219443, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8827257769401723219, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_LocalScale.x
       value: 3
@@ -3710,6 +3981,22 @@ PrefabInstance:
     - target: {fileID: 2160850997625232422, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_Name
       value: StaticBoxBouncy (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 636219443, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8827257769401723219, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_LocalScale.x
@@ -4028,6 +4315,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2076469929, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3135861032057458041, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
       propertyPath: m_Name
       value: StaticBoxSlippery
@@ -4089,13 +4392,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1991012390487789263, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2002425205560556358, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 319958010, guid: fd186b63b828ebc40a9152bb5cdb569d, type: 3}
+    - target: {fileID: 3506567277022359900, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4531612659806939438, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 467.7
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4531612659806939438, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 49.8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4531612659806939438, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4132,6 +4447,10 @@ PrefabInstance:
     - target: {fileID: 6124824652046132362, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8112967198891254179, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
+      propertyPath: allowCrouch
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8112967198891254179, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: deathHeight
@@ -4219,6 +4538,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc6fa4a06f37e5a48934e4396cba32cb, type: 3}
+--- !u!1001 &1225005243
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1435773282663932304, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_Name
+      value: Moving Background
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302451877856256528, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302451877856256528, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302451877856256528, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302451877856256528, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302451877856256528, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302451877856256528, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302451877856256528, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302451877856256528, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302451877856256528, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2302451877856256528, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 06ee5b7c1a563d24296ce9ca477b2807, type: 3}
 --- !u!1001 &1256020329
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4603,6 +4979,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2056023725}
     m_Modifications:
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2076469929, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3135861032057458041, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
       propertyPath: m_Name
       value: StaticBoxSlippery (8)
@@ -4998,6 +5390,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBoxBouncy (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 636219443, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8827257769401723219, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.83
@@ -5184,6 +5588,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2056023725}
     m_Modifications:
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2076469929, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3135861032057458041, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
       propertyPath: m_Name
       value: StaticBoxSlippery (9)
@@ -5250,6 +5670,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2056023725}
     m_Modifications:
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2076469929, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 577986401929491103, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3135861032057458041, guid: 724f2795ed3d44271a320ab25045455b, type: 3}
       propertyPath: m_Name
       value: StaticBoxSlippery (4)
@@ -5319,6 +5755,22 @@ PrefabInstance:
     - target: {fileID: 2160850997625232422, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_Name
       value: StaticBoxBouncy (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 636219443, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8827257769401723219, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_LocalScale.x
@@ -5448,6 +5900,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RotatingPlatform (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5388218801909573982, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8915592984020964820, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
     - target: {fileID: 5772860372516609320, guid: 44d50306ac116406b91cf36b7d2215b4, type: 3}
       propertyPath: m_LocalScale.x
       value: 5
@@ -5575,6 +6031,26 @@ PrefabInstance:
     - target: {fileID: 2160850997625232422, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_Name
       value: StaticBoxBouncy
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 636219443, guid: 2225b9c0bfabed941a59f5fa0074d5d7, type: 3}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502854054917252032, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8827257769401723219, guid: 09d714aa48d0c49a5a58b9ac4cd1ed71, type: 3}
       propertyPath: m_LocalScale.x
@@ -338518,3 +338994,4 @@ SceneRoots:
   - {fileID: 859934695}
   - {fileID: 1776478733}
   - {fileID: 1892434186}
+  - {fileID: 1225005243}
