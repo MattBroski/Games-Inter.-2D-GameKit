@@ -2154,7 +2154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5760b60da046f4e149d650596907aae8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneChanger
-  sceneName: Trigger Challenges
+  sceneName: Cutscene1
 --- !u!212 &581316006
 SpriteRenderer:
   serializedVersion: 2
