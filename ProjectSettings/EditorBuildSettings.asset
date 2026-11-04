@@ -15,14 +15,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Challenge Level.unity
     guid: 662934d5a39f1c143b4b5a8d663a408c
   - enabled: 1
-    path: Assets/Scenes/UiScenes/Cutscenes/Cutscene2.unity
-    guid: 687697481e1fb449cb1bbb4567b50f4f
-  - enabled: 1
     path: Assets/Scenes/Trigger Challenges.unity
     guid: e9b6193ba359bc5409773d53213835cd
-  - enabled: 1
-    path: Assets/Scenes/UiScenes/Cutscenes/Cutscene3.unity
-    guid: af41d6c01f8f54582a41cb209e2f70c1
   - enabled: 1
     path: Assets/Scenes/Final Challenges.unity
     guid: 8541529a3a1175243825041b2add5394
