@@ -152085,6 +152085,22 @@ PrefabInstance:
       propertyPath: 'requiredEnabled.Array.data[4]'
       value: 
       objectReference: {fileID: 1118207339}
+    - target: {fileID: 4837068805837950671, guid: 433b7d4773ca92a42af00c79ece62aab, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837068805837950671, guid: 433b7d4773ca92a42af00c79ece62aab, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 3553314585026874686}
+    - target: {fileID: 4837068805837950671, guid: 433b7d4773ca92a42af00c79ece62aab, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadNextScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 4837068805837950671, guid: 433b7d4773ca92a42af00c79ece62aab, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SceneChanger, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 4886875498040165189, guid: 433b7d4773ca92a42af00c79ece62aab, type: 3}
       propertyPath: m_LocalPosition.x
       value: 26.5
@@ -152126,10 +152142,32 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4652593110653441239, guid: 433b7d4773ca92a42af00c79ece62aab, type: 3}
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1854947756688473083, guid: 433b7d4773ca92a42af00c79ece62aab, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3553314585026874686}
   m_SourcePrefab: {fileID: 100100000, guid: 433b7d4773ca92a42af00c79ece62aab, type: 3}
+--- !u!1 &3553314585026874685 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1854947756688473083, guid: 433b7d4773ca92a42af00c79ece62aab, type: 3}
+  m_PrefabInstance: {fileID: 3553314585026874684}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3553314585026874686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3553314585026874685}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5760b60da046f4e149d650596907aae8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneChanger
+  sceneName: 
 --- !u!1001 &5103975689211610838
 PrefabInstance:
   m_ObjectHideFlags: 0
